@@ -1,0 +1,60 @@
+{
+  "remaining_time": 70,
+
+  "words" : [
+    {
+      "english" : "Lettuce",
+      "arabic"  : "خس",
+      "image_path" : "assets/images/lettuce.png",
+      "sound_path" : "assets/sounds/lettuce.mp3"
+    },
+    {
+      "english" : "Onion",
+      "arabic"  : "بصل",
+      "image_path" : "assets/images/onion.png",
+      "sound_path" : "assets/sounds/onion.mp3"
+    },
+    {
+      "english" : "Orange",
+      "arabic"  : "برتقال",
+      "image_path" : "assets/images/orange.png",
+      "sound_path" : "assets/sounds/orange.mp3"
+    },
+    {
+      "english" : "Pen",
+      "arabic"  : "قلم",
+      "image_path" : "assets/images/pen.png",
+      "sound_path" : "assets/sounds/pen.mp3"
+    },
+    {
+      "english" : "Phone",
+      "arabic"  : "هاتف",
+      "image_path" : "assets/images/phone.png",
+      "sound_path" : "assets/sounds/phone.mp3"
+    },
+    {
+      "english" : "Pineapple",
+      "arabic"  : "اناناس",
+      "image_path" : "assets/images/pineapple.png",
+      "sound_path" : "assets/sounds/pineapple.mp3"
+    },
+    {
+      "english" : "Pomegranate",
+      "arabic"  : "رمان",
+      "image_path" : "assets/images/pomegranate.png",
+      "sound_path" : "assets/sounds/pomegranate.mp3"
+    },
+    {
+      "english" : "Strawberries",
+      "arabic"  : "فراولة",
+      "image_path" : "assets/images/strawberries.png",
+      "sound_path" : "assets/sounds/strawberries.mp3"
+    },
+    {
+      "english" : "Train",
+      "arabic"  : "قطار",
+      "image_path" : "assets/images/train.png",
+      "sound_path" : "assets/sounds/train.mp3"
+    }
+  ]
+}

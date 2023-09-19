@@ -1,0 +1,29 @@
+{
+  "remaining_time": 30,
+  "words" : [
+    {
+      "english" : "Apple",
+      "arabic"  : "تفاحة",
+      "image_path" : "assets/images/apples.png",
+      "sound_path" : "assets/sounds/apples.mp3"
+    },
+    {
+      "english" : "Banana",
+      "arabic"  : "موزة",
+      "image_path" : "assets/images/banana.png",
+      "sound_path" : "assets/sounds/banana.mp3"
+    },
+    {
+      "english" : "Bear",
+      "arabic"  : "دب",
+      "image_path" : "assets/images/bear.png",
+      "sound_path" : "assets/sounds/bear.mp3"
+    },
+    {
+      "english" : "Bird",
+      "arabic"  : "عصفور",
+      "image_path" : "assets/images/bird.png",
+      "sound_path" : "assets/sounds/bird.mp3"
+    }
+  ]
+}

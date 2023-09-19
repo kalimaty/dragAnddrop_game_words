@@ -1,0 +1,41 @@
+{
+  "remaining_time": 40,
+  "words" : [
+    {
+      "english" : "Box",
+      "arabic"  : "صندوق",
+      "image_path" : "assets/images/box.png",
+      "sound_path" : "assets/sounds/box.mp3"
+    },
+    {
+      "english" : "Carrot",
+      "arabic"  : "جزر",
+      "image_path" : "assets/images/carrot.png",
+      "sound_path" : "assets/sounds/carrot.mp3"
+    },
+    {
+      "english" : "Dog",
+      "arabic"  : "كلب",
+      "image_path" : "assets/images/dog.png",
+      "sound_path" : "assets/sounds/dog.mp3"
+    },
+    {
+      "english" : "Fruit",
+      "arabic"  : "فواكه",
+      "image_path" : "assets/images/fruit.png",
+      "sound_path" : "assets/sounds/fruit.mp3"
+    },
+    {
+      "english" : "Hand",
+      "arabic"  : "يد",
+      "image_path" : "assets/images/hand.png",
+      "sound_path" : "assets/sounds/hand.mp3"
+    },
+    {
+      "english" : "Key",
+      "arabic"  : "مفتاح",
+      "image_path" : "assets/images/key.png",
+      "sound_path" : "assets/sounds/key.mp3"
+    }
+  ]
+}
